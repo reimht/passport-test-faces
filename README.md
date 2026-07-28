@@ -4,9 +4,9 @@ Fictional, AI-generated passport photos for software testing (e.g., student ID c
 
 ## 💾 Download Dataset
 
-Due to GitHub's file size limitations, the complete 300 MB image dataset is hosted via GitHub Releases. You can download the full ZIP archive here:
+Due to GitHub's file size limitations, the complete 230 MB image dataset is hosted via GitHub Releases. You can download the full ZIP archive here:
 
-👉 **[Download pictures.zip (300 MB)](https://github.com/reimht/passport-test-faces/releases/download/v1.0.0/pictures.zip)**
+👉 **[Download pictures.zip (230 MB)](https://github.com/reimht/passport-test-faces/releases/download/v1.0.0/pictures.zip)**
 
 *(Alternatively, you can navigate to the "Releases" section of this repository to download the file manually.)*
 
